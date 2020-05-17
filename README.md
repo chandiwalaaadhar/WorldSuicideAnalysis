@@ -1,5 +1,7 @@
 # WorldSuicideAnalysis
 This is a Data Analysis project in world suicide rates are analysed based on different parameters, like GDP per Capita Income, Population, HDI index, Categories of Age Groups and corresponding generations and Sex.
+# My Blog Post Link
+[1 of the reasons, why suicides are committed all over the world?](https://medium.com/@chandiwalaaadhar/1-of-the-reasons-why-suicides-are-committed-all-over-the-world-fc447408d76e)
 
 ## Installation & Usage
 - [X] Make sure you have Jupyter Notebook Installed on your Device
