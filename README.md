@@ -34,3 +34,5 @@ master.csv is a file that contains the overall data, and hdi.csv was mined from 
 * HDI values by Year and Country dataset from (http://hdr.undp.org/en/data#)
 ## Licensing
 Licensed by [MIT License](https://choosealicense.com/licenses/mit/)
+## Link to Blog on Medium
+[1 of the reasons, why suicides are committed all over the world?](https://medium.com/@chandiwalaaadhar/1-of-the-reasons-why-suicides-are-committed-all-over-the-world-fc447408d76e)
