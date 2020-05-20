@@ -26,7 +26,8 @@ master.csv is a file that contains the overall data, and hdi.csv was mined from 
 * Which was the worst year across the world for suicide rate?
 * Which countries have had the unhappiest male/females in the world?
 * Does HDI & GDP per Capita of a country has an impact on suicide rates there?
-
+## Future Implementations
+Looking to Use Machine Learning Algorithm to Predit Suicide rates over the world in coming years.
 ## Contributer(s)
 [Aadhar Chandiwala](https://github.com/chandiwalaaadhar)
 ## Acknowledgement(s)
@@ -34,5 +35,3 @@ master.csv is a file that contains the overall data, and hdi.csv was mined from 
 * HDI values by Year and Country dataset from (http://hdr.undp.org/en/data#)
 ## Licensing
 Licensed by [MIT License](https://choosealicense.com/licenses/mit/)
-## Link to Blog on Medium
-[1 of the reasons, why suicides are committed all over the world?](https://medium.com/@chandiwalaaadhar/1-of-the-reasons-why-suicides-are-committed-all-over-the-world-fc447408d76e)
